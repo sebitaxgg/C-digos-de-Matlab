@@ -19,7 +19,11 @@
 - SimP: Me divide el sector \alpha = 1 de rotación en los dos subespectros del operador de reflexión.
 
 Modo de proceder para calcular evolución temporal
+
 Definir N->Base->Energia->Corrientereflex->Vcambiobase->Matriz_Ni_auto->Elegir condiciones iniciales o usar Encontrar_roto->Coherente o Coherentebucle
+
 Modo de proceder para calcular el estado de equilibrio
+
 Definir N no múltiplo de 3->Base->Basesim->Energia->Energiasim->Corrientereflex->Cambioatrio->Matriz_Ni_autotrios->densidad
+
 Si quieres comparar el estado de equilibrio con la evolución temporal como en el TFG, es necesario realizar los dos.
