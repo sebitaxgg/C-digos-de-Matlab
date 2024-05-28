@@ -17,6 +17,8 @@
 - Distribucionparesytrios: Calcula la distancia de las energías a un triplete y doblete.
 - Encontrar_roto: Caclula estados coherente a partir de variables aleatorias que cumplan ciertas condiciones de energía
 - SimP: Me divide el sector \alpha = 1 de rotación en los dos subespectros del operador de reflexión.
+- Simulaciones contiene valores de condiciones iniciales de estados coherentes en los que se ha relacionado clásico y cuántico. Las 3 primeras columnas son las posiciones, las siguientes los momentos y la última la energía. Se indica con un SI, aquellos valores con simetría rota en el análogo clásico.
+- Cuantico contiene valores de condiciones iniciales de estados coherentes, pero solo se han estudiado el modelo cuántico. Las columnas siguen la misma notación que simulaciones, pero al final se añade que simetría tiene rota.
 
 Modo de proceder para calcular evolución temporal:
 
